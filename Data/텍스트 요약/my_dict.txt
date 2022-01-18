@@ -1,0 +1,12 @@
+단톡	NNP
+인스타	NNP
+싱기	NNP
+부빗부빗	NNP
+유튜브	NNP
+유튭	NNP
+카톡	NNP
+꿈뻑	NNP
+쓰담쓰담	NNP
+아코	NNP
+뚠뚠	NNP
+알피
